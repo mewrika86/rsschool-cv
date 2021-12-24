@@ -3,7 +3,7 @@
 *_location: Minsk, Belarus_
 *_phone: +375 29 7762384_
 *_email: mewrika@mail.ru_
-*_GitHub:(https://mewrika86)_
+*_GitHub:mewrika86_
 
 ##About me
 I am smart, patient and persevering, ready to learn, to overcome difficulties. I want to learn more, improve my knowledge and skills.

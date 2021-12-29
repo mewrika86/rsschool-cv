@@ -1,3 +1,1 @@
-# rsschool-cv
-https://mewrika86.github.io/rsschool-cv/
-https://mewrika86.github.io/rsschool-cv/cv
+https://mystifying-heisenberg-7d4ae4.netlify.app/

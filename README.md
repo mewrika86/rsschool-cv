@@ -1,2 +1,3 @@
 # rsschool-cv
-https://nifty-kirch-f7928d.netlify.app
+https://mewrika86.github.io/rsschool-cv/
+https://mewrika86.github.io/rsschool-cv/cv
